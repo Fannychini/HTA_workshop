@@ -4,7 +4,6 @@
 
 ### 📖 Abstract
 
-This repository is associated with the *Fantastic Data and Where to Scrape Them* presentation at the *R for HTA 2021* meeting by Fanny Franchini.   
 *Please note that this presentation is aimed at beginners*  
   
 Health Technology Assessment (HTA) and Health Economic (HE) analyses rely partly on the data hosted across multiple websites curated by different governmental bodies. As a result, there is no unified repository containing all the information necessary for data mining and subsequent analyses.   
