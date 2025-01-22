@@ -1,0 +1,75 @@
+slides > slide.title-slide{
+  background-image: url("fantastic2.png");
+  background-size: 100% 100%;
+}
+
+slides > slide.title-slide hgroup h2 {  
+  color: black;
+  font-size: 35px !important;
+  letter-spacing: 0px !important;
+  line-height: 20px !important;
+  padding: 1px 1px !important;
+}
+
+.gdbar img {
+  width: 150px !important;
+  height: 150px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 190px !important;
+  height: 165px !important;
+}
+
+slides > slide:not(.nobackground):before {
+  width: 40px;
+  height: 40px;
+  background-size: 40px 40px;
+}
+
+slides > slide {
+  background: linear-gradient(#ffffff, #ffffff 85%, #ffffff);
+  background-color: white;
+}
+
+slides > slide hgroup h2 {  
+  color: #041E42 !important;
+  font-size: 45px;
+  letter-spacing: 12;
+}
+
+slides > slide.segue hgroup h2 {
+  color: #FFD200;
+  font-size: 85px;
+  letter-spacing: 12;
+  padding: 10px 10px;
+  line-height: 90px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    border-spacing: 0;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    background-color: white;
+}
+table th {
+    background: #041E42 !important;   
+    border-color: #EDE7DD !important;
+    padding: 10px 10px;
+    background-color: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+}
+table td {
+    padding: 10px 10px;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+}
